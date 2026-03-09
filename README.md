@@ -128,4 +128,4 @@ Deploy thư mục `build/` lên web server. Cấu hình `homepage` trong `packag
 
 ## Tài liệu
 
-- [VNPAY Token API](https://sandbox.vnpayment.vn/apis/docs/)
+- [VNPAY Token API](https://sandbox.vnpayment.vn/apis/files/VNPAY%20Payment%20Token_Techspec%202.1.0-VN.pdf)
